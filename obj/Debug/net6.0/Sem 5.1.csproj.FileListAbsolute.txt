@@ -1,0 +1,15 @@
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/Sem 5.1.csproj.AssemblyReference.cache
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/Sem 5.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/Sem 5.1.AssemblyInfoInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/Sem 5.1.AssemblyInfo.cs
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/Sem 5.1.csproj.CoreCompileInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/bin/Debug/net6.0/Sem 5.1
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/bin/Debug/net6.0/Sem 5.1.deps.json
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/bin/Debug/net6.0/Sem 5.1.runtimeconfig.json
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/bin/Debug/net6.0/Sem 5.1.dll
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/bin/Debug/net6.0/Sem 5.1.pdb
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/Sem 5.1.dll
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/refint/Sem 5.1.dll
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/Sem 5.1.pdb
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/Sem 5.1.genruntimeconfig.cache
+/Users/anastasiaan/Desktop/geekbrains/Sem 5.1/obj/Debug/net6.0/ref/Sem 5.1.dll

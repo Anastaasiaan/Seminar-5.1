@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа.
+456 -> 6
+782 -> 2
+918 -> 8
+*/
+
+Console.WriteLine("Введите трехзначное число");
+int number = int.Parse(Console.ReadLine());
+int firstDigit = number / 100;
+int secondDigit = (number / 10) % 10;
+int thirdDigit = number % 10;
+Console.WriteLine($"Первая цифра в числе {number} равна {firstDigit}");
+Console.WriteLine($"Вторая цифра в числе {number} равна {secondDigit}");
+Console.WriteLine($"Третья цифра в числе {number} равна {thirdDigit}");
